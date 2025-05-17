@@ -27,24 +27,43 @@ This project implements a **natural voice synthesis system** capable of **voice 
 
 ## 🛠️ Project Structure
 multi-speaker-tts-system/
+
 │
+
 ├── data/
+
 │ └── speaker_dataset/ # Raw audio files + metadata.csv
+
 │
+
 ├── preprocessing/
+
 │ ├── create_metadata.py # Metadata generation
+
 │ ├── preprocess_audio.py # Audio resampling (22050Hz)
+
 │ └── compute_embeddings.py # Extracts & stores speaker embeddings
+
 │
+
 ├── inference/
+
 │ ├── tts_engine.py # Core TTS engine using Coqui
+
 │ └── infer.py # Wrapper for inference functions
+
 │
+
 ├── ui/
+
 │ └── app.py # Streamlit frontend
+
 │
+
 ├── requirements.txt # Project dependencies
+
 ├── runtime.txt # Python version pinning for deployment
+
 └── main.py # Entry point
 
 ---
