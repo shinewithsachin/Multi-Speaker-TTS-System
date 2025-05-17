@@ -111,6 +111,11 @@ Streamlit
 
 ## 📷 Screenshots
 
+![Input-Output](https://github.com/shinewithsachin/Multi-Speaker-TTS-System/blob/main/Screenshot%202025-05-17%20155723.png)
+![Input-Output](https://github.com/shinewithsachin/Multi-Speaker-TTS-System/blob/main/Screenshot%202025-05-17%20155737.png)
+![Input-Output](https://github.com/shinewithsachin/Multi-Speaker-TTS-System/blob/main/Screenshot%202025-05-17%20155831.png)
+
+
 
 
 ## License
