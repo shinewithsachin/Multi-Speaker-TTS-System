@@ -1,0 +1,11 @@
+gradio
+librosa
+soundfile
+torchaudio
+transformers
+torch
+speechbrain
+streamlit
+numpy
+pyttsx3
+TTS  

@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Model files, checkpoints, and large data
+*.ckpt
+*.pth
+*.pt
+*.npy
+data/
+outputs/
+logs/
+
+# Audio files
+*.wav
+*.mp3
+
+# Streamlit cache
+.streamlit/
+
+# Other
+*.log

@@ -1,0 +1,4 @@
+{
+  "embedding_dim": 192,
+  "model_path": "model/tts_model.pth"
+}

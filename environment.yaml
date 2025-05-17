@@ -1,0 +1,15 @@
+name: tts-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - cython
+  - numpy
+  - torch
+  - pip:
+    - coqui-tts
+    - streamlit
+    - scipy
+    - soundfile
